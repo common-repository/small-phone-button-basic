@@ -1,0 +1,14 @@
+.form-table td fieldset.icons label {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.icons img {
+  width: 35px;
+  height: 35px;
+  margin-left: 50px;
+}
+.dg2-small {
+  color: rgb(120, 139, 161);
+  font-size: 11px;
+}

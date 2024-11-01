@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('.dg2-color-field').wpColorPicker();});

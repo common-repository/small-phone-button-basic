@@ -1,0 +1,134 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Small Phone Button Basic\n"
+"POT-Creation-Date: 2021-11-20 14:28+0100\n"
+"PO-Revision-Date: 2021-11-20 14:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: dg2-phone-button.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: src/Settings/SettingsPage.php:25 src/Settings/SettingsPage.php:26
+msgid "Click to Call Button"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:41
+msgid "Click to Call Button"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:65
+msgid "Settings"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:72
+msgid "Phone link"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:79
+msgid "Phone - visible"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:86
+msgid "Button background color"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:93
+msgid "Button text color"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:101
+msgid "Choose icon  "
+msgstr ""
+
+#: src/Settings/SettingsPage.php:109
+msgid "Choose button type  "
+msgstr ""
+
+#: src/Settings/SettingsPage.php:116
+msgid "Setup X-position from right  "
+msgstr ""
+
+#: src/Settings/SettingsPage.php:123
+msgid "Setup Y-position from bottom  "
+msgstr ""
+
+#: src/Settings/SettingsPage.php:130
+msgid "Show on desktop view"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:223
+msgid "Show"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:233
+msgid "Icon 1"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:235
+msgid "Icon 2"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:237
+msgid "Icon 3"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:239
+msgid "Icon 4"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:241
+msgid "Icon 5"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:243
+msgid "Icon 6"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:245
+msgid "Icon 7"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:259
+msgid "Square Rounded"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:261
+msgid "Square Sharp"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:263
+msgid "Circle"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:192
+msgid "Enter a phone number or visible text, ex: Call Us Now!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Click to Call Button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://digital2.rs"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Small floating click to call phone button for your website"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Digital2Web"
+msgstr ""
